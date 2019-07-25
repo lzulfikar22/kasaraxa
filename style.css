@@ -21,7 +21,8 @@
 
 @media screen and (max-width: 480px) {
 #wrapper{
-    width: auto;
+    width: 95%;
     height: auto;
+    margin: auto;
   }
 }

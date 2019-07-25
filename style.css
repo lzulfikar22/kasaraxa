@@ -4,3 +4,9 @@
     background-color: red;
     margin: auto;
 }
+
+@media screen and (max-width: 480px) {
+#wrapper{
+    width: auto;
+  }
+}
